@@ -1,0 +1,6 @@
+# Word cache-files
+~$*.doc
+~$*.docx
+
+# Backup files
+*.bak
